@@ -1,0 +1,6 @@
+framework module Pods_rmtpTest {
+  umbrella header "Pods-rmtpTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
